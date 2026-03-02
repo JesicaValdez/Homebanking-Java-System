@@ -1,5 +1,7 @@
 # 🏦 Sistema de Homebanking Institucional
 
+<img width="938" height="412" alt="portafolio-5" src="https://github.com/user-attachments/assets/4b7f57fb-b8d0-4907-a7a1-ae1664d4c094" />
+
 **Proyecto Integrador Final | Java EE (Servlets) & MySQL**
 
 Este sistema de banca digital fue desarrollado como un **trabajo colaborativo en equipo (6 integrantes)** para el proyecto final de la carrera. Simula un entorno bancario real, con un fuerte enfoque en la integridad de los datos, transacciones seguras y control administrativo.
